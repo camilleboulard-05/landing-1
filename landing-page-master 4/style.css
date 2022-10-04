@@ -1,0 +1,33 @@
+body {
+  font-family: Roboto;
+  color: #DA187C;
+  font-size: 14px;
+}
+
+.card {
+	width: 300px;
+}
+
+.card img {
+	width: 150px;
+}
+
+.banner {
+	background-color: #c4a245;
+	background-size: cover;
+}
+
+.card {
+	background-color: #ecbce8;
+	text-align: center;
+}
+ 
+.text {
+	text-align: center;
+}
+
+.cards {
+	margin: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
